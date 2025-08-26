@@ -13,14 +13,6 @@ Options All -Indexes
 # Mensagem de erro personalizada.
 ErrorDocument 403 "Desculpe! acesso nao permitido!"
 
-# Redireciona para o HTTPS independente do domínio
-RewriteCond %{HTTPS} off
-RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-
-# Adiciona www. no prefixo do domínio
-#RewriteCond %{HTTP_HOST} !^www\. [NC]
-#RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]s
-
 # php -- BEGIN cPanel-generated handler, do not edit
 # Defina o pacote “ea-php82” como a linguagem padrão de programação “PHP”.
 <IfModule mime_module>
