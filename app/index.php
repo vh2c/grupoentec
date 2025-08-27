@@ -322,14 +322,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li><a href="/servicos/1">Remoção<br>Transporte</a></li>
+                                        <li class="entecsub"><a href="/servicos/1">Remoção<br>Transporte</a></li>
 
-                                        <li><a href="/servicos/2">Locação<br>Equipamentos</a></li>
+                                        <li class="entecsub"><a href="/servicos/2">Locação<br>Equipamentos</a></li>
 
-                                        <li><a href="/servicos/3">Locação<br>Contêineres</a></li>
+                                        <li class="entecsub"><a href="/servicos/3">Locação<br>Contêineres</a></li>
 
-                                        <li><a href="/servicos/4">Embalagens<br>Especiais</a></li>
-
+                                        <li class="entecsub"><a href="/servicos/4">Embalagens<br>Especiais</a></li>
 
 
                                     </ul>
@@ -342,7 +341,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li><a href="/vendas">Vendas<br>Equipamentos</a></li>
+                                        <li class="entecsub"><a href="/vendas">Vendas<br>Equipamentos</a></li>
 
                                     </ul>
 
@@ -354,9 +353,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li><a href="/historia">Nossa<br>História</a></li>
+                                        <li class="entecsub"><a href="/historia">Nossa<br>História</a></li>
 
-                                        <li><a href="/ideologia">Ideologia</a></li>
+                                        <li class="entecsub"><a href="/ideologia">Ideologia</a></li>
 
                                     </ul>
 
