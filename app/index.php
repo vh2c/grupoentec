@@ -22,7 +22,7 @@
 
 
 
-    $sis->debug(FALSE);
+    $sis->debug(TRUE);
 
     $sis->log(TRUE);
 
@@ -226,9 +226,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         <a class="navbar-brand" href="">
 
-                            <img class="logo-default" src="/images/logo.png" alt="logo" />
+                            <img class="logo-default" src="/images/logo1.png" alt="Entec" />
 
-                            <img class="logo-retina" src="/images/logo.png" alt="logo" />
+                            <img class="logo-retina" src="/images/logo1.png" alt="Entec" />
 
                         </a>
 
@@ -252,13 +252,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li><a href="/servicos/1">Rigging<br>Transportation</a></li>
+                                        <li class="entecsub"><a href="/servicos/1">Rigging<br>Transportation</a></li>
 
-                                        <li><a href="/servicos/2">Equipment<br>Rental</a></li>
+                                        <li class="entecsub"><a href="/servicos/2">Equipment<br>Rental</a></li>
 
-                                        <li><a href="/servicos/3">Containers<br>Rental</a></li>
+                                        <li class="entecsub"><a href="/servicos/3">Containers<br>Rental</a></li>
 
-                                        <li><a href="/servicos/4">Special<br>Packaging</a></li>
+                                        <li class="entecsub"><a href="/servicos/4">Special<br>Packaging</a></li>
 
 
 
@@ -272,7 +272,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li><a href="/vendas">Sales<br>Equipment</a></li>
+                                        <li class="entecsub"><a href="/vendas">Sales<br>Equipment</a></li>
 
                                     </ul>
 
@@ -284,9 +284,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li><a href="/historia">Our<br>History</a></li>
+                                        <li class="entecsub"><a href="/historia">Our<br>History</a></li>
 
-                                        <li><a href="/ideologia">Ideology<br></a></li>
+                                        <li class="entecsub"><a href="/ideologia">Ideology<br></a></li>
 
                                     </ul>
 

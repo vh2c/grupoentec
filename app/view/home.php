@@ -126,7 +126,7 @@
 
 
 
-                            <a href="https://www.youtube.com/watch?v=fvmV-W3rKhg" data-lightbox-anima="fade-right" class="btn btn-lg btn-play text-color lightbox mfp-iframe">Assista o vídeo <i></i></a>
+                            <a href="https://www.youtube.com/watch?v=fvmV-W3rKhg" data-lightbox-anima="fade-right" class="btn btn-border btn-lg btn-play text-color lightbox mfp-iframe entecwatch">Assista o vídeo <i></i></a>
 
 
 

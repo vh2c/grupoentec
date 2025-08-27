@@ -874,7 +874,7 @@ header .btn-default, header .btn, header .anima-button.circle-button, header .in
 
     header .btn-default:hover, header .circle-button:hover {
         border-color: #D2D2D2;
-        background-color: #e6e6e6;
+        background-color: #f1046f;
     }
 
 .navbar-default .navbar-nav > li > a, .mega-menu h5 {
@@ -2548,7 +2548,7 @@ FOOTER
 }
 
 footer {
-    background-color: rgb(36, 18, 154);
+    background-color: #0a53b2;
     position: relative;
     z-index: 1;
     margin-top: 0 !important;
