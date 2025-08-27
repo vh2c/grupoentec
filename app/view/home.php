@@ -66,7 +66,7 @@
 
 
 
-                            <a href="/servicos/1" class="btn btn-border btn-yellow btn-lg" style="background-color: #1a42a7 !important;color:white !important">veja mais</a>
+                            <a href="/servicos/1" class="btn btn-border btn-yellow btn-lg">veja mais</a>
 
 
 
@@ -194,7 +194,7 @@
 
 
 
-                            <a href="/servicos/2" class="btn btn-border btn-yellow btn-lg" style="background-color: #1a42a7 !important;color:white !important">Veja mais</a>
+                            <a href="/servicos/2" class="btn btn-border btn-yellow btn-lg">Veja mais</a>
 
 
 
