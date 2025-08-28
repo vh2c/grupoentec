@@ -401,6 +401,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </header>
     <div id="conteudo-detalhe">
         Carregando...
+        <? require_once('../view/home.php'); ?>
     </div>
     <?php
 
