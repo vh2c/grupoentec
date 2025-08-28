@@ -185,7 +185,7 @@ class Sistema extends Dbasis{
 			require_once("controller/".$url[0].'.php');
 
 		}else{
-
+			echo '<script>console.log("retorno 404: '.$url[1].'")</script>';
 			require_once('view/template/404.php');
 
 		}
