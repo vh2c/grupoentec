@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // const urlPHP = this.getAttribute('data-conteudo'); // Pega a URL do atributo data-conteudo
             const urlPHP = '/controller.teste.php'; // Pega a URL do atributo data-conteudo
-
+            console.log('caminho: '+ urlPHP);
             // Faz a requisição AJAX usando fetch()
             fetch(urlPHP)
                 .then(response => {
