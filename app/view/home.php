@@ -1,5 +1,5 @@
-<div class="section-bg-image parallax-window white ken-burn-center no-padding-bottom" data-natural-height="720" data-natural-width="1280" data-parallax="scroll" data-image-src="/images/bannerNOVO25.jpg">
-
+<!-- <div class="section-bg-image parallax-window white ken-burn-center no-padding-bottom" data-natural-height="720" data-natural-width="1280" data-parallax="scroll" data-image-src="/images/bannerNOVO25.jpg"> -->
+<div class="header-title ken-burn-out white" style="background-image: url('images/banner_inicial.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
 
 
     <div class="content">
@@ -714,7 +714,8 @@
 
 
 
-<div class="section-two-blocks" data-parallax="scroll" data-image-src="/images/bannerEntec.jpeg" data-natural-height="1080" data-natural-width="1920" style="height: 500px;"></div>
+<!-- <div class="section-two-blocks" data-parallax="scroll" data-image-src="/images/bannerEntec.jpeg" data-natural-height="1080" data-natural-width="1920" style="height: 500px;"></div> -->
+<div class="header-title ken-burn-out white" style="background-image: url('images/banner_fabrica.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
 
 
 
