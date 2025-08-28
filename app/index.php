@@ -172,15 +172,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                 <?php
 
-                                    if ($idioma['idioma'] == "en") {
+                                    if (isset($idioma['idioma']) && $idioma['idioma'] == "en") {
 
                                         echo '
 
-                                        <a href="#" class="dropdown-toggle A_defineIdioma" data-toggle="dropdown" data-lang="en"><img src="'.BASE.'/images/en.png" alt="flag" />EN <span class="caret"></span></a>
+                                        <a href="#" class="dropdown-toggle A_defineIdioma" data-toggle="dropdown" data-lang="en"><img src="/images/en.png" alt="flag" />EN <span class="caret"></span></a>
 
                                         <ul class="dropdown-menu">
 
-                                            <li data-lang="br" class="A_defineIdioma"><a><img src="'.BASE.'/images/br.png" alt="flag" />PT</a></li>
+                                            <li data-lang="br" class="A_defineIdioma"><a><img src="/images/br.png" alt="flag" />PT</a></li>
 
                                         </ul>';
 
@@ -188,11 +188,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                         echo '
 
-                                        <a href="#" class="dropdown-toggle A_defineIdioma" data-toggle="dropdown" data-lang="br"><img src="'.BASE.'/images/br.png" alt="flag" />BR <span class="caret"></span></a>
+                                        <a href="#" class="dropdown-toggle A_defineIdioma" data-toggle="dropdown" data-lang="br"><img src="/images/br.png" alt="flag" />BR <span class="caret"></span></a>
 
                                         <ul class="dropdown-menu">
 
-                                            <li data-lang="en" class="A_defineIdioma"><a><img src="'.BASE.'/images/en.png" alt="flag" />EN</a></li>
+                                            <li data-lang="en" class="A_defineIdioma"><a><img src="/images/en.png" alt="flag" />EN</a></li>
 
                                         </ul>';
 
