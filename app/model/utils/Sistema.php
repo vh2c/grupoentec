@@ -168,6 +168,10 @@ class Sistema extends Dbasis{
 
 		$url = filter_input(INPUT_GET,'url',FILTER_DEFAULT);
 
+		echo '<script>console.log("retorno filter: "'.$url.')</script>';
+		// echo '<script>console.log("retorno filter: "'.$url.')</script>';
+		// echo '<script>console.log("retorno filter: "'.$url.')</script>';
+
 		$url = explode('/', $url);
 
 		$url[0] = (empty($url[0]) ? 'home' : $url[0]);
