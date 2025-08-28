@@ -715,7 +715,7 @@
 
 
 <!-- <div class="section-two-blocks" data-parallax="scroll" data-image-src="/images/bannerEntec.jpeg" data-natural-height="1080" data-natural-width="1920" style="height: 500px;"></div> -->
-<div class="header-title ken-burn-out white" style="background-image: url('images/banner_fabrica.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+<div class="header-title ken-burn-out white" style="background-image: url('images/banner_final.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
 
 
 
