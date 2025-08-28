@@ -249,13 +249,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li class="entecsub"><a href="/servicos/1">Rigging<br>Transportation</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/ingles/transportes.php" href="#">Rigging<br>Transportation</a></li>
 
-                                        <li class="entecsub"><a href="/servicos/2">Equipment<br>Rental</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/ingles/equipamentos.php" href="#">Equipment<br>Rental</a></li>
 
-                                        <li class="entecsub"><a href="/servicos/3">Containers<br>Rental</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/ingles/conteineres.php" href="#">Containers<br>Rental</a></li>
 
-                                        <li class="entecsub"><a href="/servicos/4">Special<br>Packaging</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/ingles/embalagens.php" href="#">Special<br>Packaging</a></li>
 
 
 
@@ -269,7 +269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li class="entecsub"><a href="/vendas">Sales<br>Equipment</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/ingles/vendas.php" href="#">Sales<br>Equipment</a></li>
 
                                     </ul>
 
@@ -281,9 +281,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li class="entecsub"><a href="/historia">Our<br>History</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/ingles/historia.php" href="#">Our<br>History</a></li>
 
-                                        <li class="entecsub"><a href="/ideologia">Ideology<br></a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/ingles/ideologia.php" href="#">Ideology<br></a></li>
 
                                     </ul>
 
@@ -297,7 +297,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                 <li class="dropdown">
 
-                                    <a href="/contato">Contact <span class="caret"></span></a>
+                                    <a data-conteudo="../view/ingles/contato.php" href="#">Contact <span class="caret"></span></a>
 
                                 </li>
 
@@ -319,13 +319,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li class="entecsub"><a data-conteudo="../view/servicos/transporte.php" href="#">Remoção<br>Transporte</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/transporte.php" href="#">Remoção<br>Transporte</a></li>
 
-                                        <li class="entecsub"><a data-conteudo="../view/servicos/equipamentos.php" href="#">Locação<br>Equipamentos</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/equipamentos.php" href="#">Locação<br>Equipamentos</a></li>
 
-                                        <li class="entecsub"><a data-conteudo="../view/servicos/conteineres.php" href="#">Locação<br>Contêineres</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/conteineres.php" href="#">Locação<br>Contêineres</a></li>
 
-                                        <li class="entecsub"><a data-conteudo="../view/servicos/embalagens.php" href="#">Embalagens<br>Especiais</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/embalagens.php" href="#">Embalagens<br>Especiais</a></li>
 
 
                                     </ul>
@@ -338,7 +338,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li class="entecsub"><a href="/vendas">Vendas<br>Equipamentos</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/vendas.php" href="#">Vendas<br>Equipamentos</a></li>
 
                                     </ul>
 
@@ -350,9 +350,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li class="entecsub"><a href="/historia">Nossa<br>História</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/historia.php" href="#">Nossa<br>História</a></li>
 
-                                        <li class="entecsub"><a href="/ideologia">Ideologia</a></li>
+                                        <li class="entecsub"><a data-conteudo="../view/ideologia.php" href="#">Ideologia</a></li>
 
                                     </ul>
 
@@ -366,7 +366,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                 <li class="dropdown">
 
-                                    <a href="/contato">Contato <span class="caret"></span></a>
+                                    <a data-conteudo="../view/contato.php" href="#">Contato <span class="caret"></span></a>
 
                                 </li>
 
@@ -400,7 +400,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     </header>
     <div id="conteudo-detalhe">
-        Carregando...
         <? require_once('view/home.php'); ?>
     </div>
     <?php

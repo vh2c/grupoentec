@@ -1,4 +1,4 @@
-<div class="header-title ken-burn-out white" data-parallax="scroll" data-natural-height="800" data-natural-width="1920" data-image-src="<?= BASE ?>/images/Servicos/Servicos.jpg">
+<div class="header-title ken-burn-out white" data-parallax="scroll" data-natural-height="800" data-natural-width="1920" data-image-src="/images/Servicos/Servicos.jpg">
         <div class="container">
             <div class="title-base">
                 <hr class="anima" />
@@ -17,7 +17,7 @@
                         <nav class="sidebar-nav">
                             <ul class="side-menu">
                                 <li class="active">
-                                    <a href="<?= BASE ?>/vendas">Equipment</a>
+                                    <a href="/vendas">Equipment</a>
                                 </li>
                                
                             </ul>
@@ -45,8 +45,8 @@
                         <div class="grid-list gallery">
                             <div class="grid-box row" data-lightbox-anima="fade-left">
                                 <div class="grid-item col-md-4 col-sm-6">
-                                    <a class="img-box inner" href="<?= BASE ?>/images/Servicos/Venda1.jpg">
-                                        <span><img src="<?= BASE ?>/images/Servicos/Venda1.jpg" alt=""></span>
+                                    <a class="img-box inner" href="/images/Servicos/Venda1.jpg">
+                                        <span><img src="/images/Servicos/Venda1.jpg" alt=""></span>
                                         <span class="caption-box">
                                             <span class="caption">
                                                  
@@ -55,8 +55,8 @@
                                     </a>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6">
-                                    <a class="img-box inner" href="<?= BASE ?>/images/Servicos/Venda2.jpg">
-                                        <span><img src="<?= BASE ?>/images/Servicos/Venda2.jpg" alt=""></span>
+                                    <a class="img-box inner" href="/images/Servicos/Venda2.jpg">
+                                        <span><img src="/images/Servicos/Venda2.jpg" alt=""></span>
                                         <span class="caption-box">
                                             <span class="caption">
                                                   
@@ -65,8 +65,8 @@
                                     </a>
                                 </div>
                                 <!-- <div class="grid-item col-md-4 col-sm-6">
-                                    <a class="img-box inner" href="<?= BASE ?>/images/Servicos/Venda3.jpg">
-                                        <span><img src="<?= BASE ?>/images/Servicos/Venda3.jpg" alt=""></span>
+                                    <a class="img-box inner" href="/images/Servicos/Venda3.jpg">
+                                        <span><img src="/images/Servicos/Venda3.jpg" alt=""></span>
                                         <span class="caption-box">
                                             <span class="caption">
                                                  
@@ -75,8 +75,8 @@
                                     </a>
                                 </div> -->
                                 <div class="grid-item col-md-4 col-sm-6">
-                                    <a class="img-box inner" href="<?= BASE ?>/images/Servicos/Venda4.jpg">
-                                        <span><img src="<?= BASE ?>/images/Servicos/Venda4.jpg" alt=""></span>
+                                    <a class="img-box inner" href="/images/Servicos/Venda4.jpg">
+                                        <span><img src="/images/Servicos/Venda4.jpg" alt=""></span>
                                         <span class="caption-box">
                                             <span class="caption">
                                                  
@@ -85,8 +85,8 @@
                                     </a>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6">
-                                    <a class="img-box inner" href="<?= BASE ?>/images/Servicos/Venda5.jpg">
-                                        <span><img src="<?= BASE ?>/images/Servicos/Venda5.jpg" alt=""></span>
+                                    <a class="img-box inner" href="/images/Servicos/Venda5.jpg">
+                                        <span><img src="/images/Servicos/Venda5.jpg" alt=""></span>
                                         <span class="caption-box">
                                             <span class="caption">
                                                  
@@ -95,8 +95,8 @@
                                     </a>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6">
-                                    <a class="img-box inner" href="<?= BASE ?>/images/Servicos/Venda6.jpg">
-                                        <span><img src="<?= BASE ?>/images/Servicos/Venda6.jpg" alt=""></span>
+                                    <a class="img-box inner" href="/images/Servicos/Venda6.jpg">
+                                        <span><img src="/images/Servicos/Venda6.jpg" alt=""></span>
                                         <span class="caption-box">
                                             <span class="caption">
                                                  
