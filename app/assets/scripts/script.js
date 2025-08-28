@@ -10,6 +10,39 @@
  * Manage all the animations on page scroll, on click, on hover
  * Manage the timeline animations
 */
+document.addEventListener('DOMContentLoaded', function() {
+    // Seleciona todos os links do menu
+    const linksMenu = document.querySelectorAll('a[data-conteudo]');
+
+    // Adiciona um "event listener" a cada link
+    linksMenu.forEach(link => {
+        link.addEventListener('click', function(event) {
+            event.preventDefault(); // Impede o comportamento padrão do link (recaregar a página)
+
+            const urlPHP = this.getAttribute('data-conteudo'); // Pega a URL do atributo data-conteudo
+
+            // Faz a requisição AJAX usando fetch()
+            fetch(urlPHP)
+                .then(response => {
+                    // Verifica se a requisição foi bem-sucedida
+                    if (!response.ok) {
+                        throw new Error('Erro ao carregar conteúdo: ' + response.statusText);
+                    }
+                    return response.text(); // Converte a resposta em texto
+                })
+                .then(html => {
+                    // Insere o HTML recebido no elemento de destino
+                    document.getElementById('conteudo-detalhe').innerHTML = html;
+                })
+                .catch(error => {
+                    console.error('Erro:', error);
+                    document.getElementById('conteudo-detalhe').innerHTML = '<p>Não foi possível carregar o conteúdo.</p>';
+                });
+        });
+    });
+});
+
+
 
 "use strict";
 function cssInit(delay, speed) {

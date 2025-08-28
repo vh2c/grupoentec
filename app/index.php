@@ -319,13 +319,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <ul class="dropdown-menu multi-level">
 
-                                        <li class="entecsub"><a href="/servicos/1">Remoção<br>Transporte</a></li>
+                                        <li class="entecsub"><a data-conteudo="/view/servicos/transporte.php" href="#">Remoção<br>Transporte</a></li>
 
-                                        <li class="entecsub"><a href="/servicos/2">Locação<br>Equipamentos</a></li>
+                                        <li class="entecsub"><a data-conteudo="/view/servicos/equipamentos.php" href="#">Locação<br>Equipamentos</a></li>
 
-                                        <li class="entecsub"><a href="/servicos/3">Locação<br>Contêineres</a></li>
+                                        <li class="entecsub"><a data-conteudo="/view/servicos/conteineres.php" href="#">Locação<br>Contêineres</a></li>
 
-                                        <li class="entecsub"><a href="/servicos/4">Embalagens<br>Especiais</a></li>
+                                        <li class="entecsub"><a data-conteudo="/view/servicos/embalagens.php" href="#">Embalagens<br>Especiais</a></li>
 
 
                                     </ul>
@@ -399,10 +399,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
 
     </header>
-
+    <div id="conteudo-detalhe">
+        Carregando detalhes...
+    </div>
     <?php
 
-        $sis->getHome($autUser,$idioma);
+       // $sis->getHome($autUser,$idioma);
 
     ?>
 
