@@ -169,8 +169,8 @@ class Sistema extends Dbasis{
 		$url = filter_input(INPUT_GET,'url',FILTER_DEFAULT);
 
 		echo '<script>console.log("retorno filter: "'.$url.')</script>';
-		// echo '<script>console.log("retorno filter: "'.$url.')</script>';
-		// echo '<script>console.log("retorno filter: "'.$url.')</script>';
+		echo '<script>console.log("retorno filter: "'.INPUT_GET.')</script>';
+		echo '<script>console.log("retorno filter: "'.$_GET.')</script>';
 
 		$url = explode('/', $url);
 
