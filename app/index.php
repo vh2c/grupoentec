@@ -19,9 +19,6 @@
     $autUser = session_id();
 
     $idioma = $sis->retornaIdioma();
-    if(!isset($idioma['idioma'])){
-        $idioma['idioma'] = "br";
-    }
 
     $sis->debug(TRUE);
 
