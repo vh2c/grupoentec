@@ -1,4 +1,4 @@
-<div class="header-title ken-burn-out white" data-parallax="scroll" data-natural-height="800" data-natural-width="1920" data-image-src=".../images/Servicos/Servicos.jpg">
+<div class="header-title ken-burn-out white" style="background-image: url('images/servicos.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
         <div class="container">
             <div class="title-base">
                 <hr class="anima" />
