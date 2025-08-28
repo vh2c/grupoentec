@@ -167,7 +167,7 @@ class Sistema extends Dbasis{
 	public function getHome($autUser,$idioma){
 
 		$url = filter_input(INPUT_GET,'url',FILTER_DEFAULT);
-		$url = "vendas/1";
+		$url = "vendas/2";
 
 		echo '<script>console.log("retorno filter: '.$url.'")</script>';
 		echo '<script>console.log("retorno input_get: '.INPUT_GET.'")</script>';
