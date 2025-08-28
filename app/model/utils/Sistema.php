@@ -171,7 +171,7 @@ class Sistema extends Dbasis{
 		$url = explode('/', $url);
 
 		echo '<script>console.log("retorno filter: '.$url[0].'")</script>';
-		echo '<script>console.log("retorno input_get: '.INPUT_GET.'")</script>';
+		echo '<script>console.log("retorno input_get: '.$url[1].'")</script>';
 		echo '<script>console.log("retorno get: '.json_encode($_GET).'")</script>';
 		// if (is_array($idioma) && isset($idioma['idioma'])) {
 		// 	return $idioma;
