@@ -1,0 +1,9 @@
+Header set Access-Control-Allow-Origin "*"
+Header set Access-Control-Allow-Methods "GET, POST, OPTIONS"
+Header set Access-Control-Allow-Headers "Content-Type, Authorization"
+
+# Bloqueia a listagem de diretórios.
+Options All -Indexes
+
+# Mensagem de erro personalizada.
+ErrorDocument 403 "Desculpe! acesso nao permitido!"
