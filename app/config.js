@@ -2,8 +2,8 @@ $(document).ready(function () {
 
     console.log('Config.js');
 
-    var BASE = "https://entecservicos.com.br";
-    var BASE = "https://entecservicos.com.br";
+    // var BASE = "https://entecservicos.com.br";
+    var BASE = "https://entec-grupoentec.zafwfk.easypanel.host";
 
     
 
