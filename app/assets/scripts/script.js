@@ -11,15 +11,18 @@
  * Manage the timeline animations
 */
 document.addEventListener('DOMContentLoaded', function() {
+    console.log('OK iniciado L14');
     // Seleciona todos os links do menu
     const linksMenu = document.querySelectorAll('a[data-conteudo]');
 
     // Adiciona um "event listener" a cada link
     linksMenu.forEach(link => {
+        console.log('OK iniciado L20');
         link.addEventListener('click', function(event) {
             event.preventDefault(); // Impede o comportamento padrão do link (recaregar a página)
 
             const urlPHP = this.getAttribute('data-conteudo'); // Pega a URL do atributo data-conteudo
+            console.log('OK iniciado L25:' + urlPHP );
 
             // Faz a requisição AJAX usando fetch()
             fetch(urlPHP)
