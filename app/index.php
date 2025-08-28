@@ -19,8 +19,9 @@
     $autUser = session_id();
 
     $idioma = $sis->retornaIdioma();
-
-
+    if(!isset($idioma['idioma'])){
+        $idioma['idioma'] = "br";
+    }
 
     $sis->debug(TRUE);
 
@@ -171,8 +172,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li class="dropdown">
 
                                 <?php
-
-                                    if (isset($idioma['idioma']) && $idioma['idioma'] == "en") {
+                                    if ($idioma['idioma'] == "en") {
 
                                         echo '
 
