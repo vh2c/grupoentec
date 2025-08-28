@@ -550,13 +550,25 @@ class Sistema extends Dbasis{
 
 	 */
 
+	// public function retornaIdioma() {
+
+	// 	$valorSerializado = isset($_COOKIE["Idioma"]) ? $_COOKIE["Idioma"] : FALSE;
+
+    // 	return $valorSerializado ? json_decode($valorSerializado, true) : FALSE;
+
+	// }
+
 	public function retornaIdioma() {
-
-		$valorSerializado = isset($_COOKIE["Idioma"]) ? $_COOKIE["Idioma"] : 'br';
-
-    	return $valorSerializado ? json_decode($valorSerializado, true) : FALSE;
-
-	}
+         if (isset($_COOKIE["Idioma"])) {
+             $idioma = json_decode($_COOKIE["Idioma"], true);
+             // Check if decoding was successful and the expected key exists
+         if (is_array($idioma) && isset($idioma['idioma'])) {
+                return $idioma;
+            }
+        }
+        // Default value
+        return ['idioma' => 'br'];
+   }
 
 	
 
