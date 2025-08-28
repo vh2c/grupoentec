@@ -1,4 +1,4 @@
-<div class="header-title ken-burn-out white" style="background-image: url('images/servicos.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+<div class="header-title ken-burn-out white" style="background-image: url('images/vendas.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
         <div class="container">
             <div class="title-base">
                 <hr class="anima" />
@@ -39,7 +39,7 @@
                 <div class="col-md-9 col-sm-8">
                     <hr class="space visible-xs" />
                     <h2>Vendas de Equipamentos</h2>
-                    <p>Explore o melhor do mundo dos contêineres e geradores conosco. Oferecemos uma seleção abrangente de equipamentos, tanto novos quanto usados, para atender às suas necessidades específicas. Se você busca a mais recente tecnologia em geradores para garantir um fornecimento de energia ininterrupto, ou containers robustos para armazenamento versátil, temos opções que se alinham perfeitamente ao seu projeto e orçamento. A Entec está pronta para orientá-lo na escolha do equipamento ideal, assegurando que sua operação alcance níveis excepcionais de eficiência e confiabilidade. Descubra o equilíbrio perfeito entre qualidade e economia em nosso amplo inventário de equipamentos novos e usados, e capacite seu negócio com soluções que superam as expectativas.</p>
+                    <p>A ENTEC tem uma generosa frota de equipamentos semi-novos, revisados e prontos para atender às necessidades de sua operação. Desde empilhadeiras, geradores, compressores até pequenos motores elétricos. A Entec está pronta para orientá-lo na escolha do equipamento ideal, assegurando que sua operação alcance níveis excepcionais de eficiência e confiabilidade. Descubra o equilíbrio perfeito entre qualidade e economia em nosso amplo inventário de equipamentos novos e usados, e capacite seu negócio com soluções que superam as expectativas.</p>
                     <hr class="space m" />
                     <div class="row">
                         <div class="grid-list gallery">

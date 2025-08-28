@@ -1,4 +1,4 @@
-<div class="section-bg-image parallax-window white ken-burn-center no-padding-bottom" data-natural-height="1080" data-natural-width="1920" data-parallax="scroll" data-image-src="/images/bannerNOVO25.jpg">
+<div class="section-bg-image parallax-window white ken-burn-center no-padding-bottom" data-natural-height="1080" data-natural-width="1920" data-parallax="scroll" data-image-src="/images/banner_inicial.jpg">
 
     <div class="content">
 
