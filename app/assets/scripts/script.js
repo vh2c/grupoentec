@@ -19,7 +19,8 @@ document.addEventListener('DOMContentLoaded', function() {
         link.addEventListener('click', function(event) {
             event.preventDefault(); // Impede o comportamento padrão do link (recaregar a página)
 
-            const urlPHP = this.getAttribute('data-conteudo'); // Pega a URL do atributo data-conteudo
+            // const urlPHP = this.getAttribute('data-conteudo'); // Pega a URL do atributo data-conteudo
+            const urlPHP = '/controller.teste.php'; // Pega a URL do atributo data-conteudo
 
             // Faz a requisição AJAX usando fetch()
             fetch(urlPHP)
