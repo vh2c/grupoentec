@@ -1,4 +1,4 @@
-<div class="header-title ken-burn white full-screen-title" data-sub-height="85" data-parallax="scroll" data-natural-height="1080" data-natural-width="1920" data-image-src="/images/bannerEntec.jpeg">
+<div class="header-title ken-burn-out white" style="background-image: url('images/fabrica.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
 
     <div class="overlaybox">
 
