@@ -1,4 +1,4 @@
-<div class="header-title ken-burn-out white" style="background-image: url('images/vendas.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+<div class="header-title ken-burn-out white" style="background-image: url('images/servicos.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
 
         <div class="container">
 
