@@ -69,8 +69,8 @@
                 <a href="#" class="btn-text text-color"> </a>
             </div>
             <div class="col-md-4">
-                <a class="img-box lightbox" data-lightbox-anima="fade-top" href="/images/Dest/Entec3.jpg">
-                    <img src="/images/Dest/Entec3.jpg" alt="">
+                <a class="img-box lightbox" data-lightbox-anima="fade-top" href="/images/iceberg.jpg">
+                    <img src="/images/iceberg.jpg" alt="">
                 </a>
             </div>
             <div class="col-md-4 boxed white">
