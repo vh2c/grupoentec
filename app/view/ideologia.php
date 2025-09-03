@@ -256,4 +256,13 @@
         </div>
     </div>
 </div>
-<script src="/assets/scripts/flexslider/jquery.flexslider-min.js"></script>
+<script>
+$(window).load(function() {
+  $('.flexslider').flexslider({
+    animation: "slide",
+    animationLoop: false,
+    itemWidth: 210,
+    itemMargin: 5
+  });
+});
+</script>
