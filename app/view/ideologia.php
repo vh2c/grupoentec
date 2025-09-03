@@ -256,3 +256,4 @@
         </div>
     </div>
 </div>
+<script src="/assets/scripts/flexslider/jquery.flexslider-min.js"></script>
