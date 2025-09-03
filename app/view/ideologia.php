@@ -107,7 +107,8 @@
         </div>
     </div>
 </div>
-<div class="header-title ken-burn-out white" data-parallax="scroll" data-natural-height="1080" data-natural-width="1920" data-image-src="/images/Dest/Juntos2.jpg">
+<!-- <div class="header-title ken-burn-out white" data-parallax="scroll" data-natural-height="1080" data-natural-width="1920" data-image-src="/images/Dest/Juntos2.jpg"> -->
+<div class="header-title ken-burn-out white" style="background-image: url('images/Dest/Juntos2.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
     <div class="container">
         <div class="title-base">
             <hr class="anima" />
