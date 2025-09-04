@@ -578,7 +578,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         
 
-        <!-- <script src="/assets/scripts/jquery.min.js"></script>
+        <script src="/assets/scripts/jquery.min.js"></script>
 
         <script src="/assets/scripts/parallax.min.js"></script>
 
@@ -660,7 +660,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             }
 
-        </script> -->
+        </script>
 
     </footer>
 

@@ -979,7 +979,7 @@
 
 
 
-                <!-- // -->
+        // -->
 
 
 
@@ -996,54 +996,3 @@
 
 
 </div> 
-<script src="/assets/scripts/jquery.min.js"></script>
-<script src="/assets/scripts/parallax.min.js"></script>
-<script src="/assets/scripts/script.js"></script>
-<link rel="stylesheet" href="/assets/scripts/iconsmind/line-icons.min.css">
-<script src="/assets/scripts/bootstrap/js/bootstrap.min.js"></script>
-<script src="/assets/scripts/imagesloaded.min.js"></script>
-<script src="/assets/scripts/jquery.magnific-popup.min.js"></script>
-<script src="/assets/scripts/flexslider/jquery.flexslider-min.js"></script>
-<script src="/assets/scripts/jquery.tab-accordion.js"></script>
-<script src="/assets/scripts/isotope.min.js"></script>
-<script src="/assets/scripts/bootstrap/js/bootstrap.popover.min.js"></script>
-<script src='/assets/scripts/php/contact-form.js'></script>
-<script src='/assets/scripts/jquery.progress-counter.js'></script>
-<script src="/assets/scripts/smooth.scroll.min.js"></script>
-<script src="/assets/scripts/smooth.scroll.min.js"></script>
-<script src="/assets/scripts/bootstrap/js/modal.js"></script>
-<script src="/assets/scripts/bootstrap/js/carousel.js"></script>
-<script src="/config.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAC4M_SavMIrBaSKQb9aMU6oNGmHN0z4yM&callback=initMap" async defer></script>
-<script>
-        function initMap() {
-            // Localização do marcador (substitua com suas coordenadas)
-            var minhaLocalizacao = { lat: -3.1022388, lng: -59.9468029 };
-
-            // Opções do mapa
-
-            var options = {
-
-                zoom: 17,
-
-                center: minhaLocalizacao
-
-            };
-
-            // Criar mapa
-            var map = new google.maps.Map(document.getElementById('map'), options);
-
-            // Criar marcador
-
-            var marker = new google.maps.Marker({
-
-                position: minhaLocalizacao,
-
-                map: map,
-
-                title: 'Nossa localização'
-
-            });
-
-        }
-</script>
