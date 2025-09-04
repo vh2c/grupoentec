@@ -127,8 +127,8 @@
                     No dia 22 de março de 2019 comemoramos os 40 anos de fundação da Entec. A celebração foi marcada com uma cerimônia em que estavam presentes os fundadores com suas famílias, colaboradores, fornecedores e amigos.
                 </p>
                 <hr class="space m" />
-                <div class="flexslider" style="direction:rtl">
-                    <ul class="slides">
+                <div class="">
+                    <ul class="">
                         <li>
                             <a class="img-box lightbox i-center mfp-iframe" href="https://www.youtube.com/watch?v=fvmV-W3rKhg">
                                 <i class="im-play"></i>
@@ -137,42 +137,42 @@
                         </li>
                         <li>
                             <a class="img-box lightbox" href="images/40a/40a.png">
-                                <img src="/images/40a/40a.png" alt="">
+                                <img src="images/40a/40a.png" alt="">
                             </a>
                         </li>
                         <li>
                             <a class="img-box lightbox" href="images/40a/40b.png">
-                                <img src="/images/40a/40b.png" alt="">
+                                <img src="images/40a/40b.png" alt="">
                             </a>
                         </li>
                         <li>
                             <a class="img-box lightbox" href="images/40a/40c.png">
-                                <img src="/images/40a/40c.png" alt="">
+                                <img src="images/40a/40c.png" alt="">
                             </a>
                         </li>
                         <li>
                             <a class="img-box lightbox" href="images/40a/40d.png">
-                                <img src="/images/40a/40d.png" alt="">
+                                <img src="images/40a/40d.png" alt="">
                             </a>
                         </li>
                         <li>
                             <a class="img-box lightbox" href="images/40a/40e.png">
-                                <img src="/images/40a/40e.png" alt="">
+                                <img src="images/40a/40e.png" alt="">
                             </a>
                         </li>
                         <li>
                             <a class="img-box lightbox" href="images/40a/40f.png">
-                                <img src="/images/40a/40f.png" alt="">
+                                <img src="images/40a/40f.png" alt="">
                             </a>
                         </li>
                         <li>
                             <a class="img-box lightbox" href="images/40a/40g.png">
-                                <img src="/images/40a/40g.png" alt="">
+                                <img src="images/40a/40g.png" alt="">
                             </a>
                         </li>
                         <li>
                             <a class="img-box lightbox" href="images/40a/40h.png">
-                                <img src="/images/40a/40h.png" alt="">
+                                <img src="images/40a/40h.png" alt="">
                             </a>
                         </li>
                     </ul>
