@@ -400,7 +400,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     </header>
     <div id="conteudo-detalhe">
-        <? require_once('view/home.php'); ?>
+        <?php require_once('view/home.php'); ?>
     </div>
     <?php
 
