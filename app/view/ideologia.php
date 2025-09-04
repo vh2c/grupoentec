@@ -136,42 +136,42 @@
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/40a/40a.png" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/40a/40a.png">
                                 <img src="/images/40a/40a.png" alt="">
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/40a/40b.png" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/40a/40b.png">
                                 <img src="/images/40a/40b.png" alt="">
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/40a/40c.png" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/40a/40c.png">
                                 <img src="/images/40a/40c.png" alt="">
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/40a/40d.png" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/40a/40d.png">
                                 <img src="/images/40a/40d.png" alt="">
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/40a/40e.png" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/40a/40e.png">
                                 <img src="/images/40a/40e.png" alt="">
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/40a/40f.png" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/40a/40f.png">
                                 <img src="/images/40a/40f.png" alt="">
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/40a/40g.png" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/40a/40g.png">
                                 <img src="/images/40a/40g.png" alt="">
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/40a/40h.png" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/40a/40h.png">
                                 <img src="/images/40a/40h.png" alt="">
                             </a>
                         </li>
@@ -214,17 +214,17 @@
                 <div class="flexslider carousel outer-navs" data-options="minWidth:150,itemMargin:30,numItems:3,controlNav:false,directionNav:true">
                     <ul class="slides">
                         <li>
-                            <a class="img-box lightbox" href="/images/entec/Matriz1.jpg" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/entec/Matriz1.jpg" data-lightbox-anima="fade-right">
                                 <img src="/images/entec/Matriz1.jpg" alt="">
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/entec/Matriz2.jpg" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/entec/Matriz2.jpg" data-lightbox-anima="fade-right">
                                 <img src="/images/entec/Matriz2.jpg" alt="">
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/entec/Matriz3.jpg" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/entec/Matriz3.jpg" data-lightbox-anima="fade-right">
                                 <img src="/images/entec/Matriz3.jpg" alt="">
                             </a>
                         </li>
@@ -236,17 +236,17 @@
                 <div class="flexslider carousel outer-navs" data-options="minWidth:150,itemMargin:30,numItems:3,controlNav:false,directionNav:true">
                     <ul class="slides">
                         <li>
-                            <a class="img-box lightbox" href="/images/entec/Filial1.jpg" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/entec/Filial1.jpg" data-lightbox-anima="fade-right">
                                 <img src="/images/entec/Filial1.jpg" alt="">
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/entec/Filial2.jpg" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/entec/Filial2.jpg" data-lightbox-anima="fade-right">
                                 <img src="/images/entec/Filial2.jpg" alt="">
                             </a>
                         </li>
                         <li>
-                            <a class="img-box lightbox" href="/images/entec/Filial3.jpg" data-lightbox-anima="fade-right">
+                            <a class="img-box lightbox" href="images/entec/Filial3.jpg" data-lightbox-anima="fade-right">
                                 <img src="/images/entec/Filial3.jpg" alt="">
                             </a>
                         </li>
