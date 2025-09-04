@@ -32,7 +32,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 })
                 .then(html => {
                     // Insere o HTML recebido no elemento de destino
-                    document.getElementById('conteudo-detalhe').innerHTML = html;
+                    var contentArea = document.getElementById('conteudo-detalhe');
+                     contentArea.innerHTML = html;
+                     // Chama a função para reinicializar os plugins no novo conteúdo
+                     reinitPlugins(contentArea);
                 })
                 .catch(error => {
                     console.error('Erro:', error);
@@ -43,6 +46,26 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 "use strict";
+function reinitPlugins(container) {
+    var $container = jQuery(container); 
+        // Reinicializa o FlexSlider para os novos carrosséis carregados
+        $container.find('.flexslider').executeFunction("flexslider", function () {
+            $container.find('.flexslider.slider, .flexslider.carousel').each(function () {
+                // Verifica se o plugin já não foi inicializado no elemento
+                if (typeof jQuery(this).data('flexslider') === 'undefined') {
+                    jQuery(this).initFlexSlider();
+                }
+            });
+        });
+
+        // Reinicializa o Magnific Popup para os lightboxes
+        $container.find('.lightbox').executeFunction("magnificPopup", function () {
+            $container.find('.lightbox').each(function () {
+                jQuery(this).initMagnificPopup();
+            });
+        });
+};
+
 function cssInit(delay, speed) {
     delay += 'ms';
     speed += 'ms';

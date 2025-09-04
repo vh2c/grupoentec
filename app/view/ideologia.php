@@ -127,60 +127,8 @@
                     No dia 22 de março de 2019 comemoramos os 40 anos de fundação da Entec. A celebração foi marcada com uma cerimônia em que estavam presentes os fundadores com suas famílias, colaboradores, fornecedores e amigos.
                 </p>
                 <hr class="space m" />
-                <section class="scroll--root">
-                    <div id="scroller" class="scroll--viewport">
-                        <ul class="scroll--content">
-                        <li>
-                            <a class="img-box lightbox i-center mfp-iframe" href="https://www.youtube.com/watch?v=fvmV-W3rKhg">
-                                <i class="im-play"></i>
-                                <img src="https://i.ytimg.com/an_webp/fvmV-W3rKhg/mqdefault_6s.webp?sqp=CICNrqsG&rs=AOn4CLD9QDQE3ovX1xg0tSfEHLxwWkPPBg" style="height:245px;">
-                            </a>
-                        </li>
-                        <li>
-                            <a class="img-box lightbox" href="images/40a/40a.png">
-                                <img src="images/40a/40a.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a class="img-box lightbox" href="images/40a/40b.png">
-                                <img src="images/40a/40b.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a class="img-box lightbox" href="images/40a/40c.png">
-                                <img src="images/40a/40c.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a class="img-box lightbox" href="images/40a/40d.png">
-                                <img src="images/40a/40d.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a class="img-box lightbox" href="images/40a/40e.png">
-                                <img src="images/40a/40e.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a class="img-box lightbox" href="images/40a/40f.png">
-                                <img src="images/40a/40f.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a class="img-box lightbox" href="images/40a/40g.png">
-                                <img src="images/40a/40g.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a class="img-box lightbox" href="images/40a/40h.png">
-                                <img src="images/40a/40h.png" alt="">
-                            </a>
-                        </li>
-                        </ul>
-                    </div>
-                </section>
-                <div class="">
-                    <ul class="">
+                <div class="flexslider carousel outer-navs" data-options="minWidth:150,itemMargin:30,numItems:3,controlNav:false,directionNav:true">
+                    <ul class="slides">
                         <li>
                             <a class="img-box lightbox i-center mfp-iframe" href="https://www.youtube.com/watch?v=fvmV-W3rKhg">
                                 <i class="im-play"></i>
@@ -308,15 +256,3 @@
         </div>
     </div>
 </div>
-<script>
-$(window).load(function() {
-  $('.flexslider').flexslider({
-    animation: "slide",
-    animationLoop: false,
-    itemWidth: 210,
-    itemMargin: 5,
-    mousewheel: true,
-    rtl: true
-  });
-});
-</script>
