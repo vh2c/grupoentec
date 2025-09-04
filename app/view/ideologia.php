@@ -127,7 +127,7 @@
                     No dia 22 de março de 2019 comemoramos os 40 anos de fundação da Entec. A celebração foi marcada com uma cerimônia em que estavam presentes os fundadores com suas famílias, colaboradores, fornecedores e amigos.
                 </p>
                 <hr class="space m" />
-                <div class="flexslider carousel outer-navs" style="direction:rtl" data-options="minWidth:150,itemMargin:30,numItems:3,controlNav:false,directionNav:true">
+                <div class="flexslider" style="direction:rtl">
                     <ul class="slides">
                         <li>
                             <a class="img-box lightbox i-center mfp-iframe" href="https://www.youtube.com/watch?v=fvmV-W3rKhg">
