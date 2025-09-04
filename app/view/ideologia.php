@@ -1,15 +1,3 @@
-<script>
-$(window).load(function() {
-  $('.flexslider').flexslider({
-    animation: "slide",
-    animationLoop: false,
-    itemWidth: 210,
-    itemMargin: 5,
-    mousewheel: true,
-    rtl: true
-  });
-});
-</script>
 <div class="header-title ken-burn-out white" style="background-image: url('images/ideologia.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
     <div class="container">
         <div class="title-base">
@@ -268,3 +256,15 @@ $(window).load(function() {
         </div>
     </div>
 </div>
+<script>
+$(window).load(function() {
+  $('.flexslider').flexslider({
+    animation: "slide",
+    animationLoop: false,
+    itemWidth: 210,
+    itemMargin: 5,
+    mousewheel: true,
+    rtl: true
+  });
+});
+</script>
