@@ -1,4 +1,4 @@
-<div class="section-bg-image parallax-window white ken-burn-center no-padding-bottom" data-natural-height="720" data-natural-width="1280" data-parallax="scroll" data-image-src="/images/bannerNOVO25.jpg">
+<div class="section-bg-image parallax-window white ken-burn-center no-padding-bottom" data-natural-height="720" data-natural-width="1280" data-parallax="scroll" data-image-src="/images/banner_inicial.jpg">
 <!-- <div class="header-title ken-burn-out white" style="background-image: url('images/banner_inicial.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;"> -->
 
 

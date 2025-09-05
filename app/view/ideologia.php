@@ -7,7 +7,7 @@
         </div>
     </div>
 </div>
-<div class="section-empty no-padding-bottom">
+<div class="section-empty">
     <div class="container content">
         <div class="row">
             <div class="col-md-4 col-sm-6">
@@ -63,7 +63,7 @@
         <div class="row proporzional-row proporzional-row-sm">
             <div class="col-md-4 boxed white">
                 <h2 style="color: lightgray">Proposito</h2>
-                <p>
+                <p class="texto-caixa">
                     Ser a escolha preferencial em locações de contêineres, empilhadeiras e comercialização de materiais, máquinas e equipamentos usados.
                 </p>
                 <a href="#" class="btn-text text-color"> </a>
@@ -75,7 +75,7 @@
             </div>
             <div class="col-md-4 boxed white">
                 <h2 style="color: lightgray">Visão</h2>
-                <p>
+                <p class="texto-caixa">
                     Aumentar a RENTABILIDADE com foco em locações de contêineres, empilhadeiras e comercialização de materiais, máquinas e equipamentos usados, mantendo a CULTURA DOS FUNDADORES.
                 </p>
                 <a href="#" class="btn-text"> </a>
@@ -90,7 +90,7 @@
             </div>
             <div class="col-md-4 boxed white">
                 <h2 style="color: lightgray">Valores</h2>
-                <p>
+                <p class="texto-caixa">
                     • Ética<br>
                     • Disciplina<br>
                     • Capricho<br>
@@ -132,7 +132,7 @@
                         <li>
                             <a class="img-box lightbox i-center mfp-iframe" href="https://www.youtube.com/watch?v=fvmV-W3rKhg">
                                 <i class="im-play"></i>
-                                <img src="https://i.ytimg.com/an_webp/fvmV-W3rKhg/mqdefault_6s.webp?sqp=CICNrqsG&rs=AOn4CLD9QDQE3ovX1xg0tSfEHLxwWkPPBg" style="height:245px;">
+                                <img src="images/40a/40video.jpg" style="height:245px;">
                             </a>
                         </li>
                         <li>
@@ -185,25 +185,25 @@
                         <li>
                             <a class="img-box lightbox i-center mfp-iframe" href="https://www.youtube.com/watch?v=b0Nb6oYR1PE">
                                 <i class="im-play"></i>
-                                <img src="https://i.ytimg.com/an_webp/b0Nb6oYR1PE/mqdefault_6s.webp?sqp=CMWwrqsG&rs=AOn4CLA6YQUCYdzzNB7QL9tED7uQfxJQ_g" alt="">
+                                <img src="images/hermasa_video.jpg" style="height:245px;">
                             </a>
                         </li>
                         <li>
                             <a class="img-box lightbox i-center mfp-iframe" href="https://www.youtube.com/watch?v=Mbln2oC9BC4">
                                 <i class="im-play"></i>
-                                <img src="https://i.ytimg.com/an_webp/Mbln2oC9BC4/mqdefault_6s.webp?sqp=CJK8rqsG&rs=AOn4CLCJIKEIFKFU9aLEi92vchXaXE25JQ" alt="">
+                                <img src="images/siemens_video.jpg" style="height:245px;">
                             </a>
                         </li>
                         <li>
                             <a class="img-box lightbox i-center mfp-iframe" href="https://www.youtube.com/watch?v=JdV5g-ZKn1U">
                                 <i class="im-play"></i>
-                                <img src="https://i.ytimg.com/an_webp/JdV5g-ZKn1U/mqdefault_6s.webp?sqp=CNbDrqsG&rs=AOn4CLCICqwxIUvfH4Vu_AZ3bMlRRH2GvQ" alt="">
+                                <img src="images/modulos_video.jpg" style="height:245px;">
                             </a>
                         </li>
                         <li>
                             <a class="img-box lightbox i-center mfp-iframe" href="https://www.youtube.com/watch?v=6QpQS5plZHc">
                                 <i class="im-play"></i>
-                                <img src="https://i.ytimg.com/an_webp/6QpQS5plZHc/mqdefault_6s.webp?sqp=CImsrqsG&rs=AOn4CLBVgFejQ_nT58goFy4IxhKdm1bAhw" alt="">
+                                <img src="images/embalagens_video.jpg" style="height:245px;">
                             </a>
                         </li>
                     </ul>
