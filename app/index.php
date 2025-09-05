@@ -73,51 +73,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 
     <meta charset="utf-8">
-
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <title>ENTEC Servicos - Locacoes de equipamentos e containeres - Embalagens especiais</title>
-
     <meta name="description" content="A ENTEC e uma empresa especializada na locacao de equipamentos, empilhadeiras, stackers, conteineres, venda de equipamentos, Embalagens especiais, remocao e transporte na regiao de manaus.">
-
     <meta name= "publisher" content="ENTEC Empilhadeiras, Entec conteineres, manaus, empilhatec, sercom, aluguel, rental, manaus, amazonas, entec, somov, empilhadeiras manaus, distrito industrial,toyota empilhadeiras, hyster, yale, clark, empilhadeiras manaus, operador de empilhadeiras,locação, contêiner Manaus, conteineres, contaminar, containers, modulo habitacional, contêiner obra, contêiner construcao civil, contêiner deposito, embalagens especiais, embalagem maquinas, reach stacker, stacker, aluguel stacker, stacker manaus, super g, alicon Manaus, alicon">
-
     <meta name ="keywords" content="ENTEC Empilhadeiras, Entec conteineres, manaus, empilhatec, sercom, aluguel, rental, manaus, amazonas, entec, somov, empilhadeiras manaus, distrito industrial,toyota empilhadeiras, hyster, yale, clark, empilhadeiras manaus, operador de empilhadeiras,locação, contêiner Manaus, conteineres, contaminar, containers, modulo habitacional, contêiner obra, contêiner construcao civil, contêiner deposito, embalagens especiais, embalagem maquinas, reach stacker, stacker, aluguel stacker, stacker manaus, super g, alicon Manaus, alicon">
-
     <meta name="googlebot" content="index,follow">
-
     <meta name="robots" content="index,follow">
-
     <meta http-equiv="content-language" content="pt">
-
     <meta name="revisit-after" content="7 days">
-
     <meta name="expires" content="0">
-
     <meta name="rating" content="general">
-
     <meta name="audience" content="all">
-
+    
     <link rel="stylesheet" href="/assets/scripts/bootstrap/css/bootstrap.css">
-
     <link rel="stylesheet" href="/assets/style.css">
-
     <link rel="stylesheet" href="/assets/css/font-awesome.min.css"/>
-
     <link rel="stylesheet" href="/assets/css/content-box.css">
-
     <link rel="stylesheet" href="/assets/scripts/flexslider/flexslider.css">
-
     <link rel="stylesheet" href="/assets/scripts/magnific-popup.css">
-
     <link rel="stylesheet" href="/assets/css/animations.css">
-
     <link rel="stylesheet" href="/assets/css/components.css">
-
     <link rel="stylesheet" href="/assets/scripts/php/contact-form.css">
-
     <link rel="stylesheet" href="/skin.css">
 
 </head>
@@ -576,91 +554,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         </div>
 
-        
-
         <script src="/assets/scripts/jquery.min.js"></script>
-
         <script src="/assets/scripts/parallax.min.js"></script>
-
         <script src="/assets/scripts/script.js"></script>
-
+        
         <link rel="stylesheet" href="/assets/scripts/iconsmind/line-icons.min.css">
-
+        
         <script src="/assets/scripts/bootstrap/js/bootstrap.min.js"></script>
-
         <script src="/assets/scripts/imagesloaded.min.js"></script>
-
         <script src="/assets/scripts/jquery.magnific-popup.min.js"></script>
-
         <script src="/assets/scripts/flexslider/jquery.flexslider-min.js"></script>
-
         <script src="/assets/scripts/jquery.tab-accordion.js"></script>
-
         <script src="/assets/scripts/isotope.min.js"></script>
-
         <script src="/assets/scripts/bootstrap/js/bootstrap.popover.min.js"></script>
-
         <script src='/assets/scripts/php/contact-form.js'></script>
-
         <script src='/assets/scripts/jquery.progress-counter.js'></script>
-
         <script src="/assets/scripts/smooth.scroll.min.js"></script>
-
         <script src="/assets/scripts/smooth.scroll.min.js"></script>
-
         <script src="/assets/scripts/bootstrap/js/modal.js"></script>
-
         <script src="/assets/scripts/bootstrap/js/carousel.js"></script>
 
         <script src="/config.js"></script>
-
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAC4M_SavMIrBaSKQb9aMU6oNGmHN0z4yM&callback=initMap" async defer></script>
-
-        <!-- <script src="/assets/scripts/google.maps.min.js"></script> -->
-
-        <script>
-
-            function initMap() {
-
-                // Localização do marcador (substitua com suas coordenadas)
-
-                var minhaLocalizacao = { lat: -3.1022388, lng: -59.9468029 };
-
-
-
-                // Opções do mapa
-
-                var options = {
-
-                    zoom: 17,
-
-                    center: minhaLocalizacao
-
-                };
-
-
-
-                // Criar mapa
-
-                var map = new google.maps.Map(document.getElementById('map'), options);
-
-
-
-                // Criar marcador
-
-                var marker = new google.maps.Marker({
-
-                    position: minhaLocalizacao,
-
-                    map: map,
-
-                    title: 'Nossa localização'
-
-                });
-
-            }
-
-        </script>
+        
+        <script src="https://maps.googleapis.com/maps/api/js?key=<?php echo GOOGLE_MAPS_API_KEY; ?>" async defer></script>
+        <script src="/assets/scripts/google.maps.min.js"></script>
 
     </footer>
 

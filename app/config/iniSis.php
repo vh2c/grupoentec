@@ -27,3 +27,4 @@ define("MAILUSER",getenv('MAILUSER'));
 define("MAILPASS",getenv('MAILPASS'));
 define("MAILPORT",getenv('MAILPORT'));
 define("VERSION",getenv('VERSION'));
+define('GOOGLE_MAPS_API_KEY', 'AIzaSyAC4M_SavMIrBaSKQb9aMU6oNGmHN0z4yM');

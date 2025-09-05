@@ -466,7 +466,7 @@ class Sistema extends Dbasis{
 
 	 */
 
-	public function uploadImage($tmp, $nome, $width, $height=NULL, $pasta){
+	public function uploadImage($tmp, $nome, $width, $pasta, $height=NULL){
 
 	
 

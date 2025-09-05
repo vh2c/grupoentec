@@ -64,6 +64,13 @@ function reinitPlugins(container) {
                 jQuery(this).initMagnificPopup();
             });
         });
+
+         // Reinicializa o GOOGLE MAPS
+         $container.find('.google-map').executeFunction("googleMap", function () {
+             $container.find('.google-map').each(function () {
+                 jQuery(this).googleMap();
+             });
+         });
 };
 
 function cssInit(delay, speed) {
